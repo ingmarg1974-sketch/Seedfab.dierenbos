@@ -1,0 +1,9 @@
+project:
+  name: dierenbos-avontuur
+  version: 2.0.0
+  description: "Educatieve kinderapp over bosdieren"
+
+targets:
+  android:
+    type: flutter-app
+    output: dist/dierenbos.apk
